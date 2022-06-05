@@ -1,0 +1,13 @@
+C:\Users\georg\OneDrive\Documents\5037\framework\bin\Debug\framework.pdb
+C:\Users\georg\OneDrive\Documents\5037\framework\libs\Debug\framework.pdb
+C:\Users\georg\OneDrive\Documents\5037\framework\obj\Debug\framework.pdb
+C:\Users\georg\OneDrive\Desktop\5037_inCase_itall goes wrong\framework\libs\Debug\framework.pdb
+C:\Users\georg\OneDrive\Desktop\5037_inCase_itall goes wrong\framework\obj\Debug\framework.pdb
+C:\Users\georg\OneDrive\Desktop\Desktop Folders\5037_ExtraBackup\framework\libs\Debug\framework.pdb
+C:\Users\georg\OneDrive\Desktop\Desktop Folders\5037_ExtraBackup\framework\obj\Debug\framework.pdb
+C:\Users\georg\OneDrive\Desktop\5037_ExtraBackup\framework\libs\Debug\framework.pdb
+C:\Users\georg\OneDrive\Desktop\5037_ExtraBackup\framework\obj\Debug\framework.pdb
+C:\Users\georg\OneDrive\Desktop\5037\framework\libs\Debug\framework.pdb
+C:\Users\georg\OneDrive\Desktop\5037\framework\obj\Debug\framework.pdb
+C:\Users\georg\OneDrive\Documents\GitHub\assessment---3d-boids-ecs-GDLinford\framework\libs\Debug\framework.pdb
+C:\Users\georg\OneDrive\Documents\GitHub\assessment---3d-boids-ecs-GDLinford\framework\obj\Debug\framework.pdb
